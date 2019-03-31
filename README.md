@@ -9,23 +9,34 @@
 
 ## 目录 ##
 > html + css
+
   html的基础知识点[[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/1.html的基础知识点.md)
+
   css与css3 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/2.css与css3.md)
+
   关于布局 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/3.关于布局.md)
 
 > JS
-  js 基础 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/4.JS 基础.md)
-  高级JS [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/5.高级JS .md)
-  ES 6 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/8.ES 6.md)
+  js 基础 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/4.JS基础.md)
+
+  高级JS [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/5.高级JS.md)
+
+  ES 6 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/8.ES6.md)
 
 > 网络
+
   关于浏览器 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/6.关于浏览器.md)
+
   关于网络协议 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/7.关于网络协议.md)
 
 > Vue 框架
-  Vue 基础 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/9.Vue 基础.md)
-  Vue 高级 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/10.Vue 高级.md)
+
+  Vue 基础 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/9.Vue基础.md)
+
+  Vue 高级 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/10.Vue高级.md)
+
   Vue 深入，源码阅读 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/11.Vue 深入，源码阅读.md)
 
 > 其他知识点
+
   附加学习 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/12.附加学习.md)
