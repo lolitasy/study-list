@@ -45,6 +45,14 @@
   3、Vue 深入，源码阅读 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/11.Vue深入，源码阅读.md)
 
 
+> Node JS
+
+
+  1、node.js的基本语法[[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/12.NodeJs基础语法.md)
+
+  2、node+express [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/13.node+express.md)
+
+
 > 其他知识点
 
 
