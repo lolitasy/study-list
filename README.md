@@ -56,7 +56,7 @@
 > 其他知识点
 
 
-  1、附加学习 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/12.附加学习.md)
+  1、附加学习 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/14.附加学习.md)
 
 学习方法的思路
     ![image](https://github.com/lolitasy/study-list/blob/master/image/学习思路.jpg) <br>
