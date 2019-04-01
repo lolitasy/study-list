@@ -59,4 +59,4 @@
   1、附加学习 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/12.附加学习.md)
 
 学习方法的思路
-    [自制Tabs菜单的过渡动画](https://github.com/lolitasy/study-list/blob/master/image/学习思路.jpg)
+    ![image](https://github.com/lolitasy/study-list/blob/master/image/学习思路.jpg) <br>
