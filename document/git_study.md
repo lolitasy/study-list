@@ -19,6 +19,7 @@
 
   	git push origin master
   	git pull --rebase origin master
+  	git reset HEAD  commit提交之前的撤销
 
 > 建立新的分支
 
