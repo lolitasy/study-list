@@ -21,12 +21,13 @@
   	git pull --rebase origin master
 
 > 建立新的分支
-  	git checkout -b "b1"
 
+  	git checkout -b "b1"
   	vim b1.text
   	git add .
   	git commit -m "新增分支"
   	git push origin b1
 
 > b1传到master
+
   	git push origin b1:master
