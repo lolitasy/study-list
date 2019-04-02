@@ -3,7 +3,7 @@
 
 ## 前言 ##
 我通过学习和整理，来梳理一下脑海中的知识点，希望可以在脑海中有一颗目录树。使得自己的知识点更加的巩固和扎实。
-之后我会不断的去修改，去梳理自己的知识点。
+之后我会不断的去修改，去梳理自己的知识点。希望一点一滴的去完整的把它们补充完整。
 
 
 
@@ -56,7 +56,9 @@
 > 其他知识点
 
 
-  1、附加学习 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/14.附加学习.md)
+  1、工程能力 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/15.工程能力.md)
+  2、内功能力 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/16.内功能力.md)
+  3、附加学习 [[✍详细文档]](https://github.com/lolitasy/study-list/blob/master/document/14.附加学习.md)
 
 学习方法的思路
     ![image](https://github.com/lolitasy/study-list/blob/master/image/学习思路.jpg) <br>
