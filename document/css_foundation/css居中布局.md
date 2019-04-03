@@ -6,10 +6,11 @@
         <div class="parent">
             <div class="child">DOME</div>
         </div>
-###水平居中
+### 水平居中
 
 1.父级用text-align : center
   子级用display : inline-block
+
         css
         .parent{
             text-align: center;
@@ -19,7 +20,9 @@
             display: inline-block;
             background: #f34343;
         }
+
 2.table+margin
+
         css
         .child{
             display: table;
@@ -28,6 +31,7 @@
         }
 
 3.absolute + transform
+
         css
         .parent{
             position: relative;
@@ -38,13 +42,17 @@
             left: 50%;
             transform: translateX(-50%);
         }
+
 4.flex+justify-content
+
         css 
         .parent{ 
             display: flex;
             justify-content: center;
         }
+
 5.flex+margin
+
         css 
         .parent{ 
             display: flex;
@@ -52,7 +60,9 @@
         .child{
             magin:0 auto;
         }
+
 6.absolute+margin 必须定宽定高
+
         .parent {
             position: relative;
             width: 500px;
@@ -66,6 +76,7 @@
             width: 100px;
             height: 100px;
         }
+
 7.absolute  必须定宽定高
 
         .parent {
@@ -77,7 +88,7 @@
             left: 50%;
             margin-left: -250%;
         }
-###垂直居中
+### 垂直居中
     
 1.table-cell+vertical-align
 
@@ -111,7 +122,9 @@
         .child{
             background: yellow;
         }
+
 4.position:absolute
+
         .parent {
             position: relative;
             width: 100px;
@@ -124,9 +137,10 @@
             height: 20px;
         }
 
-###水平垂直布局
+### 水平垂直布局
 
 1.表格布局
+
         .parent{
             display: table-cell;
             text-align: center;
@@ -135,6 +149,7 @@
         .child{
             display: inline-block;
         }
+
 2.transform+absolute
 
         .parent{
@@ -153,7 +168,9 @@
             justify-content: center;
             align-items: center;
         }
+
 4.absolute+margin 必须定宽定高
+
         .parent {
             position: relative;
             width: 500px;
@@ -169,6 +186,7 @@
             width: 100px;
             height: 100px;
         }
+
 5.left+margin+absolute  必须定宽定高
 
         .parent {
